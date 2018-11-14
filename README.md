@@ -1,6 +1,6 @@
 # Exocomet Orbit Fitting: Accelerating Coma Absorption During Transits of beta Pictoris
 
-arXiv link will go here.
+http://adsabs.harvard.edu/abs/2018MNRAS.479.1997K
 
 Here are files and code used in the production of this paper. Functions that do things like model radial velocity are in the file ```funcs.py```, and higher level things like spectrum extraction, absorption feature fitting, and plotting are in the iPython notebooks.
 
